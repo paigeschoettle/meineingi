@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohquoono.jahtzee.com/sitemap.xml
